@@ -1,0 +1,16 @@
+Connected Papers (connectedpapers.com) is a website which is a unique, visual tool to help researchers and applied scientists find and explore papers relevant to their field of work. The website currently alows only building two graphs per month without an account and five graphs with an account. 
+
+To bypass this retsriction, I have created this javascript which can give unlimited graph building capabilities. 
+
+How do you activate this script?
+
+First Download an extension: tampermonkey or violentmonkey.
+
+1) Tamper Monkey: Chrome- https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en
+                  Firefox: https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/
+
+2) Violent Monkey: Chrome- https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=en
+                   Firefox: https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/
+
+After installing the extension, open the javascript in a text editor and copy the codes. Then open the extension and add the script manually by clicking on 'create new script' or the '+' icon on violent monkey. 
+Thats't it. The job is done.
